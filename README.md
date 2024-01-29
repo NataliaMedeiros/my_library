@@ -1,3 +1,3 @@
-# ft_printf
+# My library
 
-This project's goal is recode the printf function.
+This project's goal is to create my own c library.
